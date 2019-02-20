@@ -1,9 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-a
-b
-c
-e
-d
-f
-h
+ºÃºÃÑ§Ï°git
